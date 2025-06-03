@@ -22,4 +22,3 @@
 
 // input in java
 
-public class 
